@@ -1,3 +1,4 @@
 # Improved_ComputerVision_with_CNN
-The project is the demonstration of building the Convolution Neural Network from scratch and compared its accuracy over simple Neural Network.   
-I performed some experimentations with CNN by twicking its parameters and monitor its impact on Accuracy and Training time.
+### We are going to build Deep Learning Model using 2 approaches and compare the accuracy of both the models with respect to each other:
+* Approach:1--> Using traditional approach i.e. not using Convolution and Pooling layers
+* Approach:2--> Using Convolution and Pooling layers
